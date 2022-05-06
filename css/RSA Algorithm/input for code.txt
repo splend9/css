@@ -1,0 +1,7 @@
+Enter the value of prime number p = 17
+Enter the value of prime number q = 13
+Enter the value of message m = 4
+Public Key [e,n] =  (125, 221)
+Cipher text =  [204, 186, 186, 164]
+Private Key [d,n] =  (149, 221)
+Plain text after decryption =  Deep
